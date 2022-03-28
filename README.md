@@ -30,5 +30,3 @@ Numpy,Pandas, Seaborn, matplotlib, Scipy
 4. change the code.
 5. Make sure to follow the [PEP-8](https://www.python.org/dev/peps/pep-0008/) style guide. 
 6. Push the code and make a Pull requests with a brief introduction of the changes made. 
-
- <p align="center">Made with :heart: by Nilavya Das</p>
