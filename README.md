@@ -8,11 +8,11 @@
 ## Solution :- 
 <p><i>
   Firstly I analyzed the data and there was no missing value but there was one outlier in the data. Summary stats and plots help us to understand the data and problem. 
-  <br>
+  <br><br>
    we shared some details about game. 
-  <br>
-  After applying A/B Testing, the analysis result gives us some important information. Shapiro Testing rejected H0 for Normality assumption. Therefore we needed to apply a Non-parametric test as called Mann Whitney U to compare two groups. As a result, Mann Whitney U Testing rejected H0 hypothesis and we learned A/B groups are not similar! 
-  <br>
+  <br><br>
+  After applying A/B Testing, the analysis result gives us some important information. Shapiro Testing rejected H0 for Normality assumption.<br><br> Therefore we needed to apply a Non-parametric test as called Mann Whitney U to compare two groups. As a result, Mann Whitney U Testing rejected H0 hypothesis and we learned A/B groups are not similar! 
+  <br> <br>
   Briefly, There are statistically significant difference between two groups about moving first gate from level 30 to level 40 for game rounds.
 </i></p>
 
